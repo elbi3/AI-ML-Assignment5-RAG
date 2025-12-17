@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 
 old
+
+chroma_db
+
+chroma_db/**
+
+
